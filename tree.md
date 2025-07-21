@@ -1,0 +1,95 @@
+- components
+  - Footer.tsx
+  - Hero.tsx
+  - IconModal.tsx
+  - ProjectCard.tsx
+  - Section.tsx
+- data
+  - icons
+    - a-arrow-down.json
+    - a-arrow-up.json
+    - a-large-small.json
+    - … (1608 more)
+  - projects
+    - annoucer.tsx
+    - deno-logger.tsx
+    - monero-stack.tsx
+  - 404.ts
+  - colorsPage.ts
+  - contact.tsx
+  - footer.ts
+  - hero.tsx
+  - iconsPage.ts
+  - menu.tsx
+  - music.ts
+  - projects.ts
+  - sites.ts
+- islands
+  - AutoRegisterSection.tsx
+  - ColorGrid.tsx
+  - CopyBlock.tsx
+  - FadeInOnVisible.tsx
+  - IconGrid.tsx
+  - RedirectToSection.tsx
+  - ScrollArrow.tsx
+  - ScrollSpyNav.tsx
+  - SectionGroup.tsx
+  - SectionRegistry.tsx
+  - SectionURLUpdater.ts
+  - SidebarNav.tsx
+  - SmartScrollLink.tsx
+- routes
+  - [lang]
+    - projects
+      - site
+        - [site].tsx
+      - [id].tsx
+      - index.tsx
+    - utils
+      - colors.tsx
+      - icons.tsx
+    - contact.tsx
+    - home.tsx
+    - index.tsx
+    - music.tsx
+  - _404.tsx
+  - _app.tsx
+  - _middleware.ts
+- static
+  - assets
+    - styles.css
+  - images
+    - music
+      - distrokid-ione.png
+      - distrokid-le-gorille.jpeg
+      - distrokid-mon-fils.jpeg
+    - annoucer.png
+    - deno-logger.png
+    - favicon.ico
+    - lapoulenoireduberry.png
+    - logo.png
+    - monero-stack-portrait.png
+    - monero-stack.png
+- utils
+  - animations.ts
+  - colors.ts
+  - default_icons.ts
+  - delete_svg.ts
+  - extract_icons.ts
+  - i18n.ts
+  - icons.tsx
+  - path.ts
+  - section-registry.ts
+  - tree_to_md.ts
+- .cozyignore
+- .gitignore
+- deno.json
+- dev.ts
+- fresh.config.ts
+- fresh.gen.ts
+- import_map.json
+- main.ts
+- README.md
+- tailwind.config.ts
+- tree.md
+- types.ts

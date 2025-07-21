@@ -1,0 +1,4 @@
+node_modules/
+fresh.gen.ts
+_fresh/
+.env

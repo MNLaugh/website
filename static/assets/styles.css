@@ -1,0 +1,13 @@
+/**
+ * © 2025 nicolas-metivier.fr
+ * This work was created by Nicolas Metivier.
+ * All rights reserved. Reproduction, distribution, or use is restricted to Nicolas Metivier without prior permission.
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
