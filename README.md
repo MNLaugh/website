@@ -6,8 +6,8 @@
 ![Lucide Icons](https://img.shields.io/badge/Lucide%20Icons-v0.525+-purple?logo=lucide)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/MNLaugh/nicolas-metivier-site)
-![Repo Size](https://img.shields.io/github/repo-size/MNLaugh/nicolas-metivier-site)
+![Last Commit](https://img.shields.io/github/last-commit/MNLaugh/website)
+![Repo Size](https://img.shields.io/github/repo-size/MNLaugh/website)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 ![Languages](https://img.shields.io/badge/i18n-FR%20%7C%20EN-blue)
 
